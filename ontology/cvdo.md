@@ -2,7 +2,7 @@
 layout: ontology_detail
 id: cvdo
 contact:
-  email: adrien.barton@gmail.com
+  email: paul.fabry@usherbrooke.ca
   label: Adrien Barton
 license:
   url: https://creativecommons.org/licenses/by/4.0/
